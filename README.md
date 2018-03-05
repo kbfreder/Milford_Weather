@@ -10,6 +10,6 @@ Data source is derived from a subset of The National Centers for Environmental I
 
 Files in this repository:
 
-weather data_cleaned.csv : Min/Max daily temperature data from 28 stations in the region from 2005-2015
-Code.py : code to analyze data. 
-Temperature Plot.png : resulting plot from 'Code.py'
+<p>weather data_cleaned.csv : Min/Max daily temperature data from 28 stations in the region from 2005-2015
+<p>Code.py : code to analyze data. 
+<p>Temperature Plot.png : resulting plot from 'Code.py'
