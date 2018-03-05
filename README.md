@@ -1,5 +1,5 @@
 ## Milford_Weather
-###analysis of historical high-low daily temps near Milford, CT, USA
+analysis of historical high-low daily temps near Milford, CT, USA
 
 This was from an assignment of U-Mich's 'Applied Plotting, Charting & Data Representation in Python', a MOOC available on Coursera
 (https://www.coursera.org/learn/python-plotting). Data was given for Milford, CT (zip 06460)
